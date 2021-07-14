@@ -1,0 +1,42 @@
+constants:
+n /n/
+b /b/
+p /p/
+d /d/
+t /t/
+dzh /d̠ʒ/
+tsh /t̠ʃ/
+dz /dz/
+ts /ts/
+z /z/
+s /s/
+zh /ʒ/
+sh /ʃ/
+v /v/
+f /f/
+h /h/
+ny /ɲ/ or /nj/
+hw /hw/
+tr /tɹ/
+dr /dɹ/
+y /j/
+l /l/
+pl /pl/
+bl /bl/
+zhr /ʒɹ/
+r /ɹ/
+w /w/
+
+vowels:
+ee /i/
+e /ɛ/
+i /ɪ/
+a /æ/
+o /ɔ/
+u /u/
+
+(Question and or Tone and or Exclamation)(S[a])(V[av])(O[a])
+Verb = Doing + Noun
+Tone = Respectful Disrespectful ect.
+quotes in words represent different syllables
+no undefined constant clusters
